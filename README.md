@@ -1,4 +1,4 @@
-Junior Software Engineer  
+Software Developer, Quantum SD-WAN Team @ [Check Point](https://www.checkpoint.com/)
 
 Programming Languages (and associated frameworks):  
 C# (.NET Core, ASP.NET Core)  
